@@ -2,7 +2,7 @@
 
 <p align="center">Um clone fullstack do chatgpt utilizando uma integração com o algoritmo do OpenAI</p>
 
-| :placard: Projeto     | **integrando o ChatGPT com Node e React - Dio.me**         |
+| :placard: Projeto     |**integrando o ChatGPT com Node e React - Dio.me** |
 | --------------------- | ------------------------------------------------- |
 | :sparkles: Nome       | **ChatGPT Clone**                                 |
 | :label: Tecnologias   | React, Node                                       |
