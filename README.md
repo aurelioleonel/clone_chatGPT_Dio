@@ -58,9 +58,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Cors
 - React
 - Axios
-- TailwindCSS
 - Git e Github
-- Figma
+
 
 <h2 align="center">Autor</h2>
 <table>
