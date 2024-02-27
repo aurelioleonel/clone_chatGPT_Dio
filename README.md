@@ -69,7 +69,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
             <a href="https://github.com/aurelioleonel" style="color:#4f46e5" align="center">
                 <p>Github</p>
             </a>
-            <a href="www.linkedin.com/in/aurelioleonel" style="color:#4f46e5" align="center">
+            <a href="https://www.linkedin.com/in/aurelioleonel" style="color:#4f46e5" align="center">
                 <p>Linkedin</p>
             </a>
             
