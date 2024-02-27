@@ -65,16 +65,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <table>
   <tr>
     <td>
-        <img src="https://avatars.githubusercontent.com/u/87160050?v=4" width="100px;" alt="Foto do Diovane Alves no GitHub"/>
-            <a href="https://github.com/diovanealves" style="color:#4f46e5" align="center">
+        <img src="https://avatars.githubusercontent.com/u/110935552?v=4" width="100px;" alt="Marcos Aurélio"/>
+            <a href="https://github.com/aurelioleonel" style="color:#4f46e5" align="center">
                 <p>Github</p>
             </a>
-            <a href="https://www.linkedin.com/in/diovane-alves-de-oliveira-5320a0217/" style="color:#4f46e5" align="center">
+            <a href="www.linkedin.com/in/aurelioleonel" style="color:#4f46e5" align="center">
                 <p>Linkedin</p>
             </a>
-            <a href="https://twitter.com/deluxyfps" style="color:#4f46e5" align="center">
-                <p>Twitter</p>
-            </a>
+            
     </td>
   </tr>
 </table>
